@@ -4,10 +4,9 @@
 
 ### Task 1
 1. Click the `Code` button (see below) to download this "repository", or set of files. Choose `Download ZIP` to download a `.zip` file.
+![image](https://user-images.githubusercontent.com/2359538/93855504-3b0c6100-fc7d-11ea-91ef-0859caf7fcb9.png)
 2. Open `session-1-questions.txt` and type in your answers to the questions in the file.
 3. Rename the file to `session-1-questions.md`.
-
-![image](https://user-images.githubusercontent.com/2359538/93855504-3b0c6100-fc7d-11ea-91ef-0859caf7fcb9.png)
 
 ### Task 2
 Upload your downloaded files to your own new GitHub repository.
@@ -24,7 +23,9 @@ Upload your downloaded files to your own new GitHub repository.
 
 ### Task 3
 1. Click the `session-1-questions.md` file above to open it, then click the `edit` pencil. 
+![image](https://user-images.githubusercontent.com/62277385/95259612-0eb02300-07ed-11eb-8e80-a429eda0dd48.png)
 2. Add a new question to the file: "3. What are ways that GitHub might help you and your students manage code?". Answer the question in the file.
     * Because we're using a Markdown (.md) file, you can add formatting to your file. [Learn more about how to add formatting](https://guides.github.com/features/mastering-markdown/).
 3. Commit your changes to a new branch.
-4. Open a pull request to merge your updates into the `master` branch.
+![image](https://user-images.githubusercontent.com/62277385/95259688-2edfe200-07ed-11eb-88af-894cdfe7fc35.png)
+4. Open a pull request to merge your updates into the main branch.
