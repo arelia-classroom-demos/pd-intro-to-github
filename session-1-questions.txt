@@ -1,3 +1,5 @@
 1. Why have you decided to learn Git and GitHub?
+I use it in my classess and I want to create a repository for my files.
 
 2. How do you plan to use GitHub in your classroom?
+Share my files with students.
